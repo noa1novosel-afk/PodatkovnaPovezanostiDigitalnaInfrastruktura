@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- XML dokument s podacima o knjiznicama i njihovim knjigama -->
+
+<knjiznice>
+
+   <!-- Gradska knjiznica smjestena u Zagrebu -->
+   <knjiznica>
+      <naziv>Gradska</naziv>
+      <adresa>Ilica 20, Zagreb</adresa>
+
+      <knjige>
+
+         <!-- Svaka knjiga sadrzi naziv, autora, godinu izdanja, zanr i broj primjeraka -->
+         <knjiga>
+            <naslov>Na Drini cuprija</naslov>
+            <autor>Ivo Andric</autor>
+            <godina_izdanja>1945</godina_izdanja>
+            <zanr>Roman</zanr>
+            <!-- Broj fizickih primjeraka dostupnih u knjiznici -->
+            <broj_primjeraka>5</broj_primjeraka>
+         </knjiga>
+
+         <knjiga>
+            <naslov>Zlocin i kazna</naslov>
+            <autor>Fjodor Dostojevski</autor>
+            <godina_izdanja>1866</godina_izdanja>
+            <zanr>Roman</zanr>
+            <broj_primjeraka>3</broj_primjeraka>
+         </knjiga>
+
+      </knjige>
+   </knjiznica>
+
+   <!-- Fakultetska knjiznica smjestena u Splitu -->
+   <knjiznica>
+      <naziv>Fakultetska</naziv>
+      <adresa>Vukovarska 58, Split</adresa>
+
+      <knjige>
+
+         <knjiga>
+            <naslov>C Programiranje</naslov>
+            <autor>Brian Kernighan</autor>
+            <godina_izdanja>1988</godina_izdanja>
+            <!-- Informaticka literatura namijenjena studentima racunarstva -->
+            <zanr>Informatika</zanr>
+            <broj_primjeraka>7</broj_primjeraka>
+         </knjiga>
+
+         <knjiga>
+            <naslov>Uvod u algoritme</naslov>
+            <autor>Thomas Cormen</autor>
+            <godina_izdanja>2009</godina_izdanja>
+            <zanr>Informatika</zanr>
+            <broj_primjeraka>4</broj_primjeraka>
+         </knjiga>
+
+         <knjiga>
+            <naslov>Hamlet</naslov>
+            <autor>William Shakespeare</autor>
+            <!-- Godina prvog izvodenja i objave Hamleta -->
+            <godina_izdanja>1603</godina_izdanja>
+            <zanr>Drama</zanr>
+            <broj_primjeraka>6</broj_primjeraka>
+         </knjiga>
+
+      </knjige>
+   </knjiznica>
+
+</knjiznice>
