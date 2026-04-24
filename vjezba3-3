@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba spol="M">
+    <Ime>Noa</Ime>
+    <Prezime>Novosel</Prezime>
+    <MjestoStanovanja>
+        <Adresa>Horvacanska cesta</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    <Kontakt>
+        <Mobitel>+385 95</Mobitel>
+        <KucniTelefon>01</KucniTelefon>
+        <Email>nnovosel@tvz.hr</Email>
+    </Kontakt>
+</Osoba>
