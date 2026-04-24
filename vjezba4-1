@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podaci xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ime>Noa Novosel</ime>
+    <cijena>49.99</cijena>
+    <godine>21</godine>
+    <aktivan>true</aktivan>
+    <datumRodjenja>06-03-2005</datumRodjenja>
+    <vrijemePocetka>18:39:00</vrijemePocetka>
+</podaci>
