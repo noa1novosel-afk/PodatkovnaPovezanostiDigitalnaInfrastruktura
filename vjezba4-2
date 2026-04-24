@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<narudzba>
+    <idNarudzbe>1001</idNarudzbe>
+    <datumNarudzbe>2026-04-24</datumNarudzbe>
+    <statusNarudzbe>u obradi</statusNarudzbe>
+    <kupac>
+        <ime>Noa</ime>
+        <prezime>Novosel</prezime>
+        <email>nnovosel@tvz.hr</email>
+    </kupac>
+    <stavke>
+        <stavka>
+            <naziv>Laptop</naziv>
+            <kolicina>2</kolicina>
+            <cijena valuta="EUR">899.99</cijena>
+        </stavka>
+        <stavka>
+            <naziv>Miš</naziv>
+            <kolicina>5</kolicina>
+            <cijena valuta="EUR">29.99</cijena>
+        </stavka>
+    </stavke>
+</narudzba>
