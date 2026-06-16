@@ -1,0 +1,6 @@
+1. //BBB[1] --- XML, DOM, JSON, JavaScript
+2. /AAA/BBB[1] ---XML
+3. //BBB[last()] --- XSLT, DOM, AJAX, JavaScript
+4. /AAA/*[1] --- <BBB id="b1" grupa="A">XML</BBB>
+5.  //BBB[@id and @grupa] --- XML, PHP, DOM 
+6. //BBB[@id and not(@grupa)] --- XPath, JSON, JavaScript
